@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="79f2bd50-f598-4507-9ba7-4415d8a114a7" name="tezali" url="http://ftp.tezali.co.uk">
+        <fileTransfer rootFolder="/public_html" host="ftp.tezali.co.uk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
